@@ -1,0 +1,22 @@
+# Don't allow video files. https://en.wikipedia.org/wiki/Video_file_format
+*.avi
+*.m4v
+*.mkv
+*.mov
+*.mp4
+*.mpeg
+*.mpg
+*.webm
+*.wmv
+
+# Ignore hidden and temp Mac and Windows files.
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
